@@ -1,0 +1,14 @@
+# Executables
+*.exe
+*.out
+student_ms
+
+# Object files
+*.o
+
+# Build directories
+build/
+
+# Editor files
+.vscode/
+*.log
