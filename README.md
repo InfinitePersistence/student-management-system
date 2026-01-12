@@ -14,7 +14,6 @@ student-management-system/
 ├── src/        # Source files
 ├── include/    # Header files
 ├── data/       # Sample data files
-├── docs/       # Design notes and screenshots
 ├── Makefile
 └── README.md
 
